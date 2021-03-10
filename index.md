@@ -1,7 +1,7 @@
 # !Under construction!
 ## My games at [itchio](https://teamon.itch.io/)
 
-![Header](https://github.com/Team-on/Team-on/blob/master/Header/Header-Github and itchio copy.jpg?raw=true)
+![Header](https://github.com/Team-on/Team-on/blob/master/Header/HeaderWebsite%20copy.jpg?raw=true)
 
 Hello! I'm Tim, a game developer who work with Unity since 2018 and have little windows and web developer experience before. I'm working on a regular developer job during day, on my own projects during night and jam on weekends from time to time. I consider myself as a gameplay programmer, but actually I can work on any part of the game, even art and music.
 
