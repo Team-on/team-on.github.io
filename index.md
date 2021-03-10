@@ -63,7 +63,6 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
 <a href="https://www.twitch.tv/teamon0"><img alt="twitch" src="https://img.shields.io/badge/twitch-team__on0-blue?style=flat-square&logo=twitch"></a>
 </p>
 
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -75,7 +74,7 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
 <form action="https://github.us1.list-manage.com/subscribe/post?u=252d33c188bd21607e20186fb&amp;id=bc576a2900" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe to my newsletter</h2>
-        <p>I never spam. Only releases and updates news</p>
+	<p>I never spam. Only releases and updates news</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -86,7 +85,7 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
 	<label for="mce-NAME">Name </label>
 	<input type="text" value="" name="NAME" class="" id="mce-NAME">
 </div>
-	    <p><a href="https://us1.campaign-archive.com/home/?u=252d33c188bd21607e20186fb&id=bc576a2900" title="View previous campaigns">View previous campaigns.</a></p>
+<p><a href="https://us1.campaign-archive.com/home/?u=252d33c188bd21607e20186fb&id=bc576a2900" title="View previous campaigns">View previous campaigns.</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
