@@ -62,3 +62,6 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
 <a href="https://discord.gg/9P75AGFFrC"><img alt="discord" src="https://img.shields.io/badge/discord-team__on0-blue?style=flat-square&logo=discord"></a>
 <a href="https://www.twitch.tv/teamon0"><img alt="twitch" src="https://img.shields.io/badge/twitch-team__on0-blue?style=flat-square&logo=twitch"></a>
 </p>
+
+
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/252d33c188bd21607e20186fb/6e7caab475da699ff573dc522.js");</script>
