@@ -86,6 +86,7 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
 	<label for="mce-NAME">Name </label>
 	<input type="text" value="" name="NAME" class="" id="mce-NAME">
 </div>
+	    <p><a href="https://us1.campaign-archive.com/home/?u=252d33c188bd21607e20186fb&id=bc576a2900" title="View previous campaigns">View previous campaigns.</a></p>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
