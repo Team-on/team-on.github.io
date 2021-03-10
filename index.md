@@ -74,7 +74,8 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
 <div id="mc_embed_signup">
 <form action="https://github.us1.list-manage.com/subscribe/post?u=252d33c188bd21607e20186fb&amp;id=bc576a2900" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Subscribe to my newsletter</h2>
+        <p>I never spam. Only releases and updates news</p>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
@@ -94,7 +95,7 @@ Other: [Website](https://github.com/Team-on/team-on.github.io), [Works](https://
     </div>
 </form>
 </div>
-
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
 <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/252d33c188bd21607e20186fb/6e7caab475da699ff573dc522.js");</script>
